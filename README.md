@@ -1,6 +1,6 @@
   <a href="https://ibb.co/YP6Xg0G"><img
             src="https://i.ibb.co/RY1N8jW/Red-and-Blue-Dynamic-Teacher-Linkedin-Banner-1.png"
-            alt="Red-and-Blue-Dynamic-Teacher-Linkedin-Banner-1" border="0" width="50%" /></a>
+            alt="Red-and-Blue-Dynamic-Teacher-Linkedin-Banner-1" border="0" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Aniket Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
