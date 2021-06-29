@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **projects and building startups**
 
-- 📫 How to reach me **janiket112@mail,**
+- 📫 How to reach me **janiket112@gmail**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10BNIpN1es054SCZnx3Dqty_S8Fmua1YW/view?usp=sharing](https://drive.google.com/file/d/10BNIpN1es054SCZnx3Dqty_S8Fmua1YW/view?usp=sharing)
 
