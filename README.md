@@ -5,7 +5,7 @@
 
 <h1  align="center">Hi <img src="https://s6.gifyu.com/images/tenor2c2d930b0a949939.gif" alt="tenor2c2d930b0a949939.gif" border="0" width="50" height="50" />, I'm Aniket Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<!-- <img src="https://i.ibb.co/bNW4c6c/giphy.webp" alt="giphy" border="0" align="right"> -->
+<img src="https://i.ibb.co/bNW4c6c/giphy.webp" alt="giphy" border="0" align="right">
 
 # 💫About Me :
 - 🌱 I’m currently learning MERN Stack Development
