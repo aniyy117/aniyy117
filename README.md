@@ -61,6 +61,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=aniyy117&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github.com/aniyy117/aniyy117/blob/output/github-contribution-grid-snake.gif" alt="snake">
-</p>
+
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+   <img src="https://github.com/aniyy117/aniyy117/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <br>
+  <br>
+  <br>
+</div>
