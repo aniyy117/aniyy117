@@ -1,3 +1,7 @@
+<img src="https://komarev.com/ghpvc/?username=aniyy117&style=flat-square&color=blue" alt="" align="right"/>
+
+##
+
 <!--   <a href="https://ibb.co/YP6Xg0G"> -->
   <img src="https://i.ibb.co/RY1N8jW/Red-and-Blue-Dynamic-Teacher-Linkedin-Banner-1.png" alt="Red-and-Blue-Dynamic-Teacher-Linkedin-Banner-1" border="0" width="100%" />
 <!-- </a> -->
@@ -48,25 +52,18 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=aniyy117&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+## 🐍 Snake eating my contribution 
 
-### ✍️Random Dev Quote
+<div align="center">
+   <img src="https://github.com/aniyy117/aniyy117/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
+</div>
+
+
+## ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+## 😂Random Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=aniyy117&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-   <img src="https://github.com/aniyy117/aniyy117/blob/output/github-contribution-grid-snake-dark.svg" alt="snake">
-  <br>
-  <br>
-  <br>
-</div>
